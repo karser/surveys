@@ -1,0 +1,18 @@
+{
+    "waves": [],
+    "survey": {
+        "code": "exercise",
+        "isScored": false,
+        "hasHelpImages": false,
+        "replacements": [],
+        "repeatMax": 1,
+        "id": 393,
+        "questions": [],
+        "marking": [],
+        "moduleCode": "ongoing",
+        "subscales": [],
+        "consensus": false,
+        "markingDisplay": "",
+        "showHelpImages": true
+    }
+}
